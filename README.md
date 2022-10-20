@@ -12,12 +12,12 @@ s-clockingの打刻自動化
 # 前提
 以下がインストールされていること
 - Google Chrome
+  - Google Chromeのバージョンが106以外の場合は、バージョンに合わせてdriverを変更すること
 - python3
 - Selenium
 
 # 使用方法
 1. git pull
-※ Google Chromeのバージョンが106以外の場合は、バージョンに合わせてdriverを変更すること
 2. config.iniにログイン情報を入力
 3. automate.pyを実行。
 
